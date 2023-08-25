@@ -4,7 +4,7 @@
  * _strnpy - copies at most an inputted number
  * of bytes from string src into dest.
  * @dest: the buffer storing the string copy.
- * :src: the source string.
+ * @src: the source string.
  * @n: the maximum number of bytes to be copied from src.
  * Return: a pointer to the resulting string dest.
  */
